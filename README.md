@@ -65,7 +65,7 @@ Codtech Tracker is a lightweight and user-friendly Chrome extension that allows 
 *3. Successful Data Tracking or Upload*
 <img width="1030" height="1014" alt="Image" src="https://github.com/user-attachments/assets/6272c449-630c-469b-9e59-74243c208f29" />
 
-*4. Chrome Extension Page
+*4. Chrome Extension Page*
 <img width="1911" height="1063" alt="Image" src="https://github.com/user-attachments/assets/f2ad68b6-abe8-4210-876b-b2a9578e162a" />
 
 
