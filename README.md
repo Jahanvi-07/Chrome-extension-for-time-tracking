@@ -57,16 +57,16 @@ Codtech Tracker is a lightweight and user-friendly Chrome extension that allows 
 ## 📸 Screenshots
 
 *1. Extension Popup UI (Logged In)*
-<img width="1016" height="1025" alt="Image" src="https://github.com/user-attachments/assets/250157df-ef7c-456f-b419-85b0099f814f" />
+<img width="1016" height="1025" alt="Image" src="https://github.com/user-attachments/assets/9624c86d-88bb-46a9-b00d-0e8a57daa10f" />
 
 *2. Extension Popup UI (Logged Out)*
-<img width="1024" height="1023" alt="Image" src="https://github.com/user-attachments/assets/730d73e6-e5bd-4fb4-975d-0baf4bc7a33c" />
+<img width="1024" height="1023" alt="Image" src="https://github.com/user-attachments/assets/5d07e2d5-c24d-45a0-82d1-906a41614ea5" />
 
 *3. Successful Data Tracking or Upload*
-<img width="1030" height="1014" alt="Image" src="https://github.com/user-attachments/assets/6272c449-630c-469b-9e59-74243c208f29" />
+<img width="1030" height="1014" alt="Image" src="https://github.com/user-attachments/assets/1a1006da-18b6-4bbb-916b-97817ac6006a" />
 
 *4. Chrome Extension Page*
-<img width="1911" height="1063" alt="Image" src="https://github.com/user-attachments/assets/f2ad68b6-abe8-4210-876b-b2a9578e162a" />
+<img width="1911" height="1063" alt="Image" src="https://github.com/user-attachments/assets/23fc6d47-d85a-4be2-959a-6fb183712bd1" />
 
 
 
